@@ -54,7 +54,7 @@ Single Price Grid Component ](https://sunil-sharma-999.github.io/single-price-gr
 
 - Website - [Sunil Sharma](https://github.com/sunil-sharma-999/)
 - Frontend Mentor - [@sunil-sharma-999](https://www.frontendmentor.io/profile/sunil-sharma-999)
-- instagram - [@sunil999](https://www.instagram.com/sunil.sharma.9/)
+- instagram - [@sunil.sharma.9](https://www.instagram.com/sunil.sharma.9/)
 
 
 
