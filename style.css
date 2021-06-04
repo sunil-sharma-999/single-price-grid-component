@@ -1,0 +1,113 @@
+body{
+    background-color: hsl(204, 43%, 93%);
+    font-family: 'Karla', sans-serif;
+}
+
+.main{
+    box-shadow: 0 10px 20px -10px hsl(218, 22%, 67%);
+    margin: 6rem 2rem;
+
+}
+
+.card-1, .card-2, .card-3{
+    padding: 1rem 3rem;
+
+}
+
+.h2-1{
+    color: hsl(179, 62%, 43%);
+}
+
+.h3{
+    color: hsl(71, 73%, 54%);
+}
+
+.para-1{
+    color: hsl(218, 22%, 67%);
+    line-height: 1.5rem;
+}
+
+.card-1{
+    background-color: white;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-2{
+    background-color: hsl(179, 62%, 43%);
+    color: rgb(221, 228, 245);
+}
+
+.h1-1{
+    display: inline;
+    margin: 0 10px;
+}
+span{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.card-3{
+    background-color: hsl(179, 50%, 60%);
+    color: hsl(218, 71%, 93%);
+    line-height: 1.5rem;
+    border-radius: 0 0 10px 10px;
+}
+
+
+.btn{
+    margin: 20px 0 10px 0;
+    color: white;
+    text-align: center;
+    background-color: hsl(71, 73%, 54%);
+    border: 0;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    padding: 0.8rem 6rem;
+    border-radius: 8px;
+    box-shadow: 0 5px 10px -7px rgb(129, 129, 129);
+    justify-content: center;
+}
+a,a:link{
+    text-decoration: none !important;
+    color: grey;
+}
+.front{
+    text-align: start;
+    margin-left: 10%;
+}
+.name{
+    color:rgb(3, 124, 161) !important;
+    float: right;
+    margin-right: 10%;
+}
+
+@media (min-width:990px){
+    .main{
+        display: flexbox;
+        justify-content: center;
+        margin: 10% 25%;
+    }
+
+    #container{
+        display: flexbox;
+    }
+
+    #subcontainer{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .card-2, .card-3{
+        width: 50%;
+        box-shadow: 0 10px 20px -10px hsl(218, 22%, 67%);
+    }
+    .card-1{
+        padding: 5% 20% 5% 10%;
+    }
+    .card-2{
+        border-radius: 0 0 0 10px;
+    }
+    .card-3{
+        border-radius: 0 0 10px 0;
+    }
+}
