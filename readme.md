@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://sunil-sharma-999.github.io/single-price-grid-component/)
 
 ## My process
 
